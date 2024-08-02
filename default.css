@@ -61,22 +61,22 @@ div {
     padding: 10px;
 }
 
-    .form-group label {
+.form-group label {
         display: block;
         width: 100%;
-    }
+}
 
-    .form-group input {
+.form-group input {
         padding: 8px 5px;
         border-radius: 15px;
         border: none;
-    }
+}
 
-        .form-group input:focus{
+.form-group input:focus{
             outline: 1px solid yellow;
-        }
+}
 
-    .form-group input[type=submit] {
+.form-group input[type=submit] {
         font-weight: bold;
         padding: 8px 25px;
         border-radius: 20px;
@@ -84,16 +84,16 @@ div {
         background: transparent;
         color: #fff;
         transition: background-color 300ms ease;
-    }
+}
         
-        .form-group input[type=submit]:focus{
+.form-group input[type=submit]:focus{
             outline: none;
             background-color: red;
 
-        }
+}
 
-        .form-group input[type=submit]:hover{
+form-group input[type=submit]:hover{
             border: solid 2px #f1c40f;
             background: #f1c40f;
             color: #000;
-        }
+}
